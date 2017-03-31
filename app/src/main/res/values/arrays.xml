@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="items">
+        <item>1111111111111</item>
+        <item>22222222222222222</item>
+        <item>33333333333333333333</item>
+        <item>4444444444444444444444</item>
+        <item>5555555555555555555555</item>
+        <item>6666666666666666666</item>
+        <item>777777777777777777777</item>
+        <item>888888888888888888888888</item>
+        <item>00000000000000000000000</item>
+        <item>aaaaaaaaaaaaaaaaaaaaa</item>
+        <item>bbbbbbbbbbbbbbbbbbbbbbb</item>
+        <item>ccccccccccccccccccc</item>
+        <item>ddddddddddddddddddddddddddd</item>
+        <item>eeeeeeeeeeeeeeeeeeeeeeeeeeee</item>
+        <item>fffffffffffffffffffffffff</item>
+        <item>ddddddddddddddddddddddddddd</item>
+        <item>hhhhhhhhhhhhhhhhhhhhh</item>
+        <item>iiiiiiiiiiiiiiiiiiiiiii</item>
+        <item>lllllllllllllllll</item>
+        <item>jjjjjjjjjj</item>
+        <item>1111111111111</item>
+        <item>1111111111111</item>
+
+    </string-array>
+</resources>
